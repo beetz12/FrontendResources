@@ -7,6 +7,7 @@ A collection of excellent javascript and front-end resources
 ## Angular 2 Tutorials
 [Large collection of Angular 2 tutorials](https://github.com/timjacobi/angular2-education)
 [Angular 2 Directives](http://angular-tips.com/blog/2015/09/migrating-directives-to-angular-2/)
+[Http Interceptor Explained](http://www.webdeveasy.com/interceptors-in-angularjs-and-useful-examples/)
 
 ##Build tools
 [Webpack vs Gulp, Browserify](https://medium.com/@housecor/browserify-vs-webpack-b3d7ca08a0a9#.fj2hz73qe)
